@@ -1,7 +1,7 @@
 # Hi 👋, I'm Leon
 
 ### A passionate programmer from Poland
-![Profile Views](https://img.shields.io/badge/Visitors-1000-green)
+![Profile Views](https://img.shields.io/badge/Visitors-50-blue)
 
 - 🔭 I'm currently working on **Esp32 Projects**
 
