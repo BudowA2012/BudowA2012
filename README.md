@@ -1,7 +1,7 @@
 # Hi 👋, I'm Leon
 
 ### A passionate programmer from Poland
-![Visitor Count](https://profile-counter.glitch.me/BudowA2012/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=BudowA2012)
 
 - 🔭 I'm currently working on **Esp32 Projects**
 
