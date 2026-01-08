@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **Esp32 Projects**
 
-- 🤝 I'm looking for help with **Linux**
+- 🤝 I'm looking for help with **Linux **
 
 - 📫 How to reach me **chwalkoleon@gmail.com**
 
